@@ -30,7 +30,6 @@ the results to your computer. Copies are also saved in `/content/anomaly_outputs
 |---|---|
 | `app.py` | Streamlit UI (upload, settings, results tabs, downloads) |
 | `anomaly_pipeline.py` | The whole pipeline; no Streamlit dependency, usable from a script |
-| `sample_data/vehicles_sample.csv` | Synthetic, deliberately messy demo data with injected anomalies |
 | `.streamlit/config.toml` | Upload limit (500 MB) and theme |
 
 Use the engine without the UI:
