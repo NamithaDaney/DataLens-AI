@@ -1,1 +1,8 @@
+[server]
+maxUploadSize = 500        # MB
 
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#6366f1"
